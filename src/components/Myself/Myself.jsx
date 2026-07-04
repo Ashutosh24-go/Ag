@@ -11,9 +11,12 @@ export function Myself(){
             </div>
         <Typewriter/>
         <div className="intro">
-                    <p>I build fast, modern and responsive</p>
-                    <p>web experiences with clean code</p>
-                    <p>and thoughtful design.</p>
+               
+                
+                
+                    <p>I enjoy solving problems,</p>
+                    <p>exploring new ideas,</p>
+                    <p>and pushing my limits.</p>
         </div>
         <div className="buttons">
 
