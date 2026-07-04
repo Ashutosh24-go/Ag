@@ -11,5 +11,6 @@ body {
     height: 100%;
     background-color: rgb(17, 16, 16);
      overflow-x: hidden;
+     font-family: 'Space Mono', monospace;
 
 }

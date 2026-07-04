@@ -1,4 +1,5 @@
 import './Myself.css'
+import { Typewriter } from '../../utils/typing'
 export function Myself(){
     return (
         <section className="myself" id="home">
@@ -8,7 +9,7 @@ export function Myself(){
                 <h6>I'M  </h6>
                 <h6 id="ashu">ASHUTOSH </h6>
             </div>
-        <h6 id = "typewrite"> </h6>
+        <Typewriter/>
         <div className="intro">
                     <p>I build fast, modern and responsive</p>
                     <p>web experiences with clean code</p>
