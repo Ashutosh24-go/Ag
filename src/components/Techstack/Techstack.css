@@ -1,0 +1,53 @@
+.techline1{
+    padding: 3vw 5vw ;
+}
+.techstack {
+    font-family: 'Space Mono', monospace;
+    /* padding: 3vw 5vw ; */
+     color: #b5b5b5;
+    
+}
+
+
+.techimg{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:28px;
+    padding:2vw 5vw;
+    align-items: flex-start;
+}
+
+
+.techcard{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width: 90px;
+    
+}
+.techcard img{
+    width:60px;
+    height:60px;
+
+    padding:12px;
+
+    border:1px solid #333;
+    border-radius:50%;
+
+    transition:all .3s ease;
+}
+.techcard p{
+    margin-top:10px;
+    padding:0;
+    font-size:15px;
+    color:#b5b5b5;
+    text-align:center;
+}
+
+
+.techcard:hover img
+{
+    border-color:#e5ff00;
+    transform:translateY(-3px);
+}
