@@ -1,0 +1,42 @@
+.aboutme{
+    font-family: 'Space Mono', monospace;
+    padding: 2vw 5vw;
+}
+.aboutmelin1{
+    
+    color: #b5b5b5;
+}
+.aboutmelin2{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw 0vw;
+    text-align: left;
+    gap: 20px;
+
+}
+.aboutmelin2 img {
+    height: 300px;
+    width: 400px;
+    /* padding: 15px; */
+    border: 1px solid #b5b5b5;
+     border-radius: 5px;
+}
+.aboutmelin2 h2 {
+    color: white;
+}
+.aboutmelin2:hover img {
+    border-color:#e5ff00;
+    transform:translateY(-3px);
+}
+/* .aboutmeimg {
+    
+} */
+.myline{
+    display: flex;
+    flex-direction: column;
+    color: #b5b5b5;
+    align-items: center;
+    /* justify-content: center; */
+    width: 700px;
+    height: auto;
+}

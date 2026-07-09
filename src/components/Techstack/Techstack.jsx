@@ -7,7 +7,7 @@ import python from "./Techstackimages/python.png";
 import react from "./Techstackimages/atom.png";
 import sql from "./Techstackimages/database.png";
 
-export default function Techstack(){
+export  function Techstack(){
     const techstacks = [
   { id: 1, name: "HTML", imgsrc: html },
   { id: 2, name: "CSS", imgsrc: css },
