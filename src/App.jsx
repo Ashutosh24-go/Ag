@@ -3,6 +3,7 @@ import { Myself } from "./components/Myself/Myself";
 import { Project } from "./components/Project/project";
 import {Techstack} from "./components/Techstack/Techstack";
 import {Aboutme} from "./components/Aboutme/Aboutme";
+import { Connect } from "./components/Connect/Connect";
 export default function App(){
   return(
 
@@ -13,6 +14,7 @@ export default function App(){
     <Project/>
     <Techstack/>
     <Aboutme/>
+    <Connect/>
     </>
   )
     
