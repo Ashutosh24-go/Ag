@@ -24,11 +24,21 @@
 .contact-info{
     border: 1px solid  #b5b5b5;
     color: #b5b5b5;
-   flex :1;
+    flex :1;
     
     
 }
+.connectlinks{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+}
 
+.connectmessage{
+    flex:2;
+    display:flex;
+    flex-direction:column;
+}
 
 .infocard{
     /* color: #b5b5b5;
@@ -41,6 +51,7 @@
     padding :15px;
     margin: 10px;
     align-items: center;
+    
 }
 
 .connectmessage{

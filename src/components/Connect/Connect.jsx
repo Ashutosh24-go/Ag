@@ -39,6 +39,15 @@ export function Connect() {
                             </div>
                         </a>
                     </div>
+                    <div className="contact-info">
+                        <a href="https://www.linkedin.com/in/ashutosh24-go/" className="infocard" target="_blank" rel="noopener noreferrer">
+                            <CiLinkedin size={30} />
+                            <div className="infowrite">
+                                <h4>LINKEDIN</h4>
+                                <p>linkedin.com/in/ashutosh24-go/</p>
+                            </div>
+                        </a>
+                    </div>
                 </div>
                 <div className="connectmessage">
                     <div className="connect-name-email">
