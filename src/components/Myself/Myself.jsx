@@ -1,6 +1,6 @@
 import './Myself.css'
 import { Typewriter } from '../../utils/typing'
-import {img } from './test.png'
+import img  from './test.png'
 export function Myself(){
     return (
         <section className="myself" id="home">
