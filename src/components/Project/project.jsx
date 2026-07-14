@@ -22,6 +22,13 @@ export function Project(){
             about:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!',
             videolink:"asdadada",
             imgsrc:projectImg
+        },
+        {
+            id :4,
+            name:'project4',
+            about:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, dolor!',
+            videolink:"asdadada",
+            imgsrc:projectImg
         }
     ]
 
