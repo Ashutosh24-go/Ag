@@ -2,6 +2,7 @@ import { Mail, } from "lucide-react";
 import './Connect.css';
 import { FaGithub } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
+import { FaInstagram } from "react-icons/fa";
 
 export function Connect() {
 
@@ -40,11 +41,11 @@ export function Connect() {
                         </a>
                     </div>
                     <div className="contact-info">
-                        <a href="https://www.linkedin.com/in/ashutosh24-go/" className="infocard" target="_blank" rel="noopener noreferrer">
-                            <CiLinkedin size={30} />
+                        <a href="https://www.instagram.com/_ashutosh.g/" className="infocard" target="_blank" rel="noopener noreferrer">
+                            <FaInstagram size={30} />
                             <div className="infowrite">
-                                <h4>LINKEDIN</h4>
-                                <p>linkedin.com/in/ashutosh24-go/</p>
+                                <h4>INSTAGRAM</h4>
+                                <p>instagram.com/_ashutosh.g//</p>
                             </div>
                         </a>
                     </div>
