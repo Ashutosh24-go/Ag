@@ -36,7 +36,7 @@ export function Connect() {
                             <CiLinkedin size={30} />
                             <div className="infowrite">
                                 <h4>LINKEDIN</h4>
-                                <p>linkedin.com/in/ashutosh24-go/</p>
+                                <p>linkedin.com/in/ashutosh24-go</p>
                             </div>
                         </a>
                     </div>
@@ -45,7 +45,7 @@ export function Connect() {
                             <FaInstagram size={30} />
                             <div className="infowrite">
                                 <h4>INSTAGRAM</h4>
-                                <p>instagram.com/_ashutosh.g//</p>
+                                <p>instagram.com/_ashutosh.g</p>
                             </div>
                         </a>
                     </div>

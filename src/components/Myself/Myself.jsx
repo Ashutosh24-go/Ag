@@ -1,5 +1,6 @@
 import './Myself.css'
 import { Typewriter } from '../../utils/typing'
+import {img } from './test.png'
 export function Myself(){
     return (
         <section className="myself" id="home">
@@ -26,7 +27,7 @@ export function Myself(){
     </div>
     
     <div className="myphoto">
-        <img src='/test.png' alt="myphoto"/>
+        <img src={img} alt="myphoto"/>
     </div>
 </section>
     )
